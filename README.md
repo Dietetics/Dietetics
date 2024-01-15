@@ -8,6 +8,7 @@
   - java
   - php
   - sql
+  - c
   
 - 📫 contact
   - https://www.linkedin.com/in/yongkang-he-5390b9269/
