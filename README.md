@@ -4,11 +4,11 @@
   - la creation
     
 - 🌱 Jsuis actuellement en apprentissage de
-  - React
+  - Spring boot
   - java
-  - php
-  - sql
-  - c
+  - javascript
+  - unity
+  - c#
   
 - 📫 contact
   - https://www.linkedin.com/in/yongkang-he-5390b9269/
