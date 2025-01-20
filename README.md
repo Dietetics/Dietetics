@@ -1,14 +1,18 @@
-- 👋 Salut, Jsuis @Dietetics
+- 👋 Salut, je suis @YongKang
 
-- 👀 Jsuis interesse a
-  - la creation
+- 👀 Je suis intéressé par :
+
+    développement d'applications
+    développement de jeux avec Unity.
     
-- 🌱 Jsuis actuellement en apprentissage de
-  - Spring boot
-  - java
-  - javascript
-  - unity
-  - c#
+
+- 🌱 Je suis actuellement en train d'apprendre :
+
+    Spring Boot
+    Java
+    JavaScript
+    Unity
+    C#
   
 - 📫 contact
   - https://www.linkedin.com/in/yongkang-he-5390b9269/
