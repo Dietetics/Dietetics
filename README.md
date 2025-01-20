@@ -6,8 +6,10 @@
 
 ## 🌱 Je suis actuellement en train d'apprendre :
 - Spring Boot  
-- Java  
-- JavaScript  
+- Java
+- Redis
+- JavaScript
+- React
 - Unity  
 - C#  
 
